@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, Welcome To Eethical Hacking LK</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-
+<h1 align="center">Hi 👋, I’m Eethical Hacking LK</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethicalhackinglk&label=Profile%20views&color=0e75b6&style=flat" alt="ethicalhackinglk" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ethicalhackinglk" alt="ethicalhackinglk" /></a> </p>
+- 🌱 I’m currently learning **Python , Linux , Shell , Html , PHP , Java , JS , CSS , C++**
+
+- 💬 Ask me about **I like help you**
+
+- 📫 How to reach me **ethicalhackinglk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
