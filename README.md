@@ -24,8 +24,8 @@
 
 <p><img aling="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ethicalhackinglk&show_icons=true&locale=en&layout=compact" alt="ethicalhackinglk"  /></p>
 
-<p>&nbsp;<img align="center"" src="https://github-readme-stats.vercel.app/api?username=ethicalhackinglk&show_icons=true&locale=en" alt="ethicalhackinglk" />
+<p>&nbsp;<img class="center" src="https://github-readme-stats.vercel.app/api?username=ethicalhackinglk&show_icons=true&theme=radical" alt="ethicalhackinglk" />
     
-<p><img aling="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ethicalhackinglk&" alt="ethicalhackinglk" /></p>
+<p><img aling="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ethicalhackinglk&" alt="ethicalhackinglk" /></p>
 
 
