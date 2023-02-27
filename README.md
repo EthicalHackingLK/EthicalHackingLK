@@ -24,7 +24,7 @@
 
 <p><img aling="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ethicalhackinglk&show_icons=true&locale=en&layout=compact" alt="ethicalhackinglk"  /></p>
 
-<center><p>&nbsp;<img class="center" src="https://github-readme-stats.vercel.app/api?username=ethicalhackinglk&show_icons=true&theme=radical" alt="ethicalhackinglk" />,<center/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EthicalHackingLK&theme=codeSTACKr&show_icons=true)
     
 <p><img aling="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ethicalhackinglk&" alt="ethicalhackinglk" /></p>
 
