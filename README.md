@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, Welcome To Ethical Hacking 🇱🇰 <img width="60" src = "https://c.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif"></h1>
 <img align="right" alt="Coding" width="400" src ="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Hacker">
 <p align="left"> 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=ethicalhackinglk&label=Profile%20views&color=0e75b6&style=flat" alt="ethicalhackinglk" /></a></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=ethicalhackinglk&label=Profile%20views&color=ff69b4&style=plastic" alt="ethicalhackinglk" /></a></p>
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
