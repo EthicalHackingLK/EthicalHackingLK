@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python , Linux , Shell , Html , PHP , Java , JS , CSS , C++**
 
-- 🤝 I’m looking for help with **Ethical Hacking LK Apps**
+- 🤝 I’m looking for help
 
 - 💬 Ask me about **I like help you.**
 
